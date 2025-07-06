@@ -5,6 +5,7 @@ Member of this project
 * Frank Tang
 * Simon
 * Kalen
+* Ricardo
 ## mid 
 ### hello
 #### word
